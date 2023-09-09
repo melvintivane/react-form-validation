@@ -16,20 +16,24 @@ Follow the steps below to configure and run this project on your machine.
 1. Clone the repository or download the source code:
 ```shell
   git clone https://github.com/melvintivane/react-form-handling.git
+```
 
 2. Navigate to the project directory:
 ```shell
   cd react-form-handling
+```
 
 3. Install project dependencies using npm or Yarn:
 
 With npm:
 ```shell
   npm install
+```
 
 With yarn:
 ```shell
   yard add
+```
 
 ### Running the Project
 
