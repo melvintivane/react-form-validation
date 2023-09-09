@@ -40,11 +40,13 @@ With yarn:
 1. After the installation is complete, you can start the project with the following command:
 ```shell
   npm run dev
+```
 
 or
 
 ```shell
   yarn add
+```
 
 2. The development server will start and you can access the application in your browser at [http://localhost:3000](http://localhost:3000).
 
