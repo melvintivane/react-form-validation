@@ -41,7 +41,6 @@ With yarn:
 ```shell
   npm run dev
 ```
-
 or
 
 ```shell
